@@ -17,11 +17,11 @@
 #### 2023-2024 Classes
 | block         | class         | 
 | ------------- |:-------------:| 
-| A             | `English 11/12` |
-| B             | `French II`     |
-| C             | `Lifetime Fitness`|
-| D             | `Open Art Studio` |
-| E             | `intro computer science`|
+| A | `English 11/12` |
+| B| `French II`     |
+| C| `Lifetime Fitness`|
+| D       | `Open Art Studio` |
+| E| `intro computer science`|
 | F             | `AP Psychology` |
 | G             | `Study Hall` |
 | H             | `AP Statistics` |
